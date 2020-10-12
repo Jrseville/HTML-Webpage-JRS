@@ -1,0 +1,84 @@
+#mainHeader {
+    margin: auto;
+    border-radius: 25px;
+    background-color:#c4eeff;
+    padding: 10px;
+    width: 325px;
+    height: 75px;
+    font-size: 60px;
+}
+
+#photoDiv{
+  padding: 25px;
+  margin-right: 5%;
+  float: right;
+  text-align: center;
+}
+
+#photoParagraph {
+  margin: auto;
+  border-radius: 15px;
+  background-color:#c4eeff;
+  padding: 15px;
+  width: 1000px;
+  height: 20px;
+  font-size: 15px;
+}
+
+#photo01 {
+    width: 400px;
+    height: 400px;
+}
+
+#photo02 {
+  width: 400px;
+  height: 400px;
+}
+
+#photo03 {
+  width: 400px;
+  height: 400px;
+}
+
+ main {
+     text-align: center;
+ }
+
+ #secondHeader {
+     margin: auto;
+     border-radius: 25px;
+     background-color:#c4eeff;
+     padding: 15px;
+     width: 300px;
+     height: 50px;
+     font-size: 40px;
+ }
+
+ #div01 {
+     border-radius: 20px;
+     background-color: #e6f4ff;
+     padding: 25px;
+     margin-left: 5%;
+     width: 40%;
+     height: 1200px;
+     font-size: 25px; 
+     float: left; 
+ }
+ 
+ #div02{
+    border-radius: 20px;
+    background-color:#e6f4ff;
+    padding: 25px;
+    margin-right: 5%;
+    width: 40%;
+    height: 1200px;
+    font-size: 25px;
+    float: right;
+ }
+ 
+
+body{
+    background-color:#adbfff;
+}
+
+
